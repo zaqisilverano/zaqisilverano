@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Zaqi 👋
 
-<!--
-**zaqisilverano/zaqisilverano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack Engineer · Acting Tech Lead · Building AI products**
 
-Here are some ideas to get you started:
+I build software at the intersection of **full-stack engineering, AI, and developer experience**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working at **Institute of Foundation Models (IFM), MBZUAI** in Abu Dhabi 🇦🇪.
+
+I'm particularly interested in what happens *after* the AI demo works:
+
+* 🤖 Agentic applications & AI-native products
+* 🧠 LLM tooling, evaluation, RAG & agents
+* ⚡ Production full-stack architecture
+* 🛠️ Developer tools & open source
+* 👥 Technical leadership & engineering systems
+
+## 🌐 Find me
+
+[LinkedIn](https://www.linkedin.com/in/zaqisilverano/) · [GitHub](https://github.com/zaqisilverano)
+
+---
+
+> Building useful things. Writing down what I learn.
